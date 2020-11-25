@@ -4,7 +4,9 @@ import '../styles/middleSection.css';
 function MiddleSection() {
   return (
     <div id="body">
-      Body
+      Just some dirty boys from the backwoods of Arkansas trying to stay out of trouble.
+
+      Links to music will be up soon(hopefully)
     </div>
   );
 }
