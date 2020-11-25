@@ -4,8 +4,7 @@
 
 
 .App-header {
-  background-color: grey;
-  min-height: 30vh;
-  font-size: 30px;
+  height: 100%;
   color: black;
+  background-color: grey;
 }
