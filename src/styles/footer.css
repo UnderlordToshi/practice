@@ -1,4 +1,8 @@
-#footer{
+.App{
+  height: 200%
+}
+
+.app-footer{
   background-color: #7b436a;
   font-size: 12px;
   text-align: center;
