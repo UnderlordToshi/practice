@@ -4,7 +4,11 @@
 
 
 .App-header {
-  height: 200%;
+  height: 100%;
   color: yellow;
   background-color: purple;
 }
+img {
+   width: inherit;
+   height: inherit;
+ }
