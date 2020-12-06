@@ -5,8 +5,8 @@ function Header() {
   return (
     <div className="App">
       <header className="App-header">
-        <a href="https://www.google.com"><img src="../../public/image/picture.jpg" alt="band art" /></a>
-        <h1>Not on my Nessy!</h1>
+        <a href="https://www.google.com"><img src="../../public/image/picture/NomN.jpg" alt="App-header" /</a>
+          <h1>Not on my Nessy!</h1>
       </header>
     </div>
   );
