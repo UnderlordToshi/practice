@@ -5,10 +5,5 @@
 
 .App-header {
   height: 100%;
-  color: yellow;
   background-color: purple;
 }
-img {
-   width: inherit;
-   height: inherit;
- }
